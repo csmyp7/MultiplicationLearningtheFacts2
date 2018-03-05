@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">Multiplication: Learning the Facts</string>
+
+    <string name="beginner">beginners</string>
+    <string name="beginnerintro">intro</string>
+    <string name="beginnerflashcard">flash cards</string>
+    <string name="beginnerpractice">practice</string>
+
+    <string name="flashcard">flash cards</string>
+    <string name="practice">practice</string>
+    <string name="timed">timed test</string>
+    <string name="setting">settings</string>
+    <string name="achievement">achievements</string>
+    <string name="progress">progress</string>
+
+    <!--
+    <string name="val"></string>
+    <string name="val"></string>
+    <string name="val"></string>
+    <string name="val"></string>
+    <string name="val"></string>
+    <string name="val"></string>
+    <string name="val"></string>
+    <string name="val"></string>
+    <string name="val"></string>
+    <string name="val"></string>
+    <string name="val"></string>
+    <string name="val"></string>
+    <string name="val"></string>
+    <string name="val"></string>
+    <string name="val"></string>
+    -->
+
+    <string name="delete">delete</string>
+    <string name="enter">enter</string>
+    <string name="equal">=</string>
+
+    <string name="tv2">TextView2</string>
+
+    <string name="op1">nums[0]</string>
+
+    <integer-array name="num">
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+    </integer-array>
+
+
+
+
+
+
+</resources>
