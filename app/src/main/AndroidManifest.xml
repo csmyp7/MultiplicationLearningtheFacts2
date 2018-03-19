@@ -9,9 +9,12 @@
         android:roundIcon="@mipmap/multi_ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".MainActivity"/>
 
-        <activity android:name=".SplashActivity" android:theme="@style/noActionBar">
+        <activity android:name=".MainActivity" />
+
+        <activity
+            android:name=".SplashActivity"
+            android:theme="@style/noActionBar">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -20,12 +23,21 @@
         </activity>
 
         <activity android:name=".BeginnerActivity" />
-        <activity android:name=".FlashCardActivity" />
+
+        <activity
+            android:name=".FlashCardActivity"
+            android:screenOrientation="portrait">
+        </activity>
+
         <activity android:name=".PracticeActivity" />
         <activity android:name=".TimedTestActivity" />
         <activity android:name=".SettingActivity" />
         <activity android:name=".AchievementActivity" />
         <activity android:name=".ProgressActivity" />
+        <activity
+            android:name=".DialogActivity"
+            android:theme="@style/Theme.AppCompat.Dialog">
+        </activity>
     </application>
 
 </manifest>
